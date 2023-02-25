@@ -1,1 +1,1 @@
-npx ts-node --esm src/employee.ts
+Source code for test article.
